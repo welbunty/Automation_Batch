@@ -8,7 +8,7 @@ class A
  }
  public void m2(int a)
  {
-	 System.out.println("I am 1 Parameterized Method  in Class AAAAAA");
+	 System.out.println("I am 1 Parameterized Method  in Class SSSSSS");
  }
 }
 class B extends A
